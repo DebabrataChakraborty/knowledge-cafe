@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co.com/1r8VF5L/young-woman-using-laptop-woman-reading-blog-online-on-computer.jpg",
+      "title": "The Future of AI",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/c6F4p7n/boy1.png",
+      "posted_date": "2024-09-25",
+      "reading_time": "5",
+      "hashtags": ["#AI", "#Future", "#Technology"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co.com/WHg9mBT/smiling-of-young-asian-woman-enjoy-with-her-smartphone.jpg",
+      "title": "Learning JavaScript Efficiently",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/ZBvDTh3/boy2.jpg",
+      "posted_date": "2024-09-20",
+      "reading_time": "8",
+      "hashtags": ["#JavaScript", "#Coding", "#Learning"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co.com/NCYvTrx/photo-1521123845560-14093637aa7d-mark-https-images-unsplash-com-opengraph-logo-png-mark-w-64-mark-al.jpg",
+      "title": "Web Development Trends 2024",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co.com/RQBYkzv/girl1.jpg",
+      "posted_date": "2024-09-22",
+      "reading_time": "10",
+      "hashtags": ["#WebDev", "#Trends", "#Development"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co.com/L0wLw8D/premium-photo-1683120846116-1bd974ad8976-mark-https-images-unsplash-com-opengraph-logo-png-mark-w-64.jpg",
+      "title": "A Guide to Cybersecurity",
+      "author": "Bob Brown",
+      "author_img": "https://i.ibb.co.com/PFb2XHx/girl2.jpg",
+      "posted_date": "2024-09-18",
+      "reading_time": "12",
+      "hashtags": ["#Cybersecurity", "#Guide", "#Privacy"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co.com/cx294hX/photo-1488190211105-8b0e65b80b4e-mark-https-images-unsplash-com-opengraph-logo-png-mark-w-64-mark-al.jpg",
+      "title": "Mastering React in 2024",
+      "author": "Charlie Green",
+      "author_img": "https://i.ibb.co.com/PFb2XHx/girl2.jpg",
+      "posted_date": "2024-09-27",
+      "reading_time": "15",
+      "hashtags": ["#React", "#JavaScript", "#Frontend"]
+    }
+  ]
+  
